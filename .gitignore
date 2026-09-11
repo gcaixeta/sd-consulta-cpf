@@ -1,0 +1,6 @@
+servidor-central/log*
+servidor-central/inadimple*
+servidor-central/target/*
+web-consulta/target/*
+
+
